@@ -1,0 +1,9 @@
+{
+  "name": "chinese-tokenizer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "chinese-tokenizer": "^2.4.0"
+  }
+}
